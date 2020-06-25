@@ -1,0 +1,21 @@
+﻿<Window x:Class="SPlayer.TextAccords"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SPlayer"
+        mc:Ignorable="d"
+        Title="TextAccords" Height="560" Width="300" WindowStyle="None" ResizeMode="NoResize">
+    <Grid Background="#FF21626C">
+        <Grid Margin="5" Background="DarkCyan">
+            <Grid Margin="2" Height="40" VerticalAlignment="Top" Background="DarkCyan">
+                <TextBlock x:Name="Track" Foreground="LightSteelBlue" TextAlignment="Center"/>
+            </Grid>
+            <Grid Margin="2" Height="500" VerticalAlignment="Bottom">
+                <ScrollViewer Background="#FFD4D4D4">
+                    <TextBlock x:Name="txt"  TextAlignment="Center" Background="Bisque"></TextBlock>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

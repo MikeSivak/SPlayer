@@ -1,0 +1,493 @@
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.csprojAssemblyReference.cache
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\App.g.cs
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.cache
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.lref
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\musicList.g.cs
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\TextAccords.g.cs
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\SPlayer.exe.config
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\SPlayer.exe
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\SPlayer.pdb
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\EntityFramework.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\libvideo.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\MediaToolkit.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\NAudio.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.AppContext.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Console.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.IO.Compression.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Net.Http.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\EntityFramework.xml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\NAudio.xml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\App.baml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\MainWindow.baml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\musicList.baml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\TextAccords.baml
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.g.resources
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.Properties.Resources.resources
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.GenerateResource.cache
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CopyComplete
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.exe
+C:\Users\MIKE\Desktop\Заново рождённый\SPlayer\SPlayer\obj\Debug\SPlayer.pdb
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\SPlayer.exe.config
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\SPlayer.exe
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\SPlayer.pdb
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\EntityFramework.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\libvideo.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\MediaToolkit.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\NAudio.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.AppContext.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Console.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Globalization.Calendars.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.Compression.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.Http.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.Sockets.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\EntityFramework.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.pdb
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\NAudio.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.csprojAssemblyReference.cache
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\MainWindow.g.cs
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\musicList.g.cs
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\TextAccords.g.cs
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\App.g.cs
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.cache
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.lref
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\App.baml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\MainWindow.baml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\musicList.baml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\TextAccords.baml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.g.resources
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.Properties.Resources.resources
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.GenerateResource.cache
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CoreCompileInputs.cache
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CopyComplete
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.exe
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.pdb
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\obj\Debug\SPlayer.exe.config
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\netstandard.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Collections.Concurrent.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Collections.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Collections.NonGeneric.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Collections.Specialized.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.ComponentModel.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Data.Common.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Debug.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Process.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Tools.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Drawing.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Dynamic.Runtime.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Globalization.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Globalization.Extensions.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.Pipes.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Linq.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Linq.Expressions.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Linq.Parallel.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Linq.Queryable.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.NameResolution.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.NetworkInformation.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.Ping.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.Requests.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.Security.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Net.WebSockets.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.ObjectModel.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Reflection.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Reflection.Extensions.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Reflection.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Resources.Reader.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Resources.ResourceManager.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Resources.Writer.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Extensions.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Handles.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Numerics.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Claims.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.Principal.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Security.SecureString.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Text.RegularExpressions.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.Overlapped.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.Tasks.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.Thread.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.ThreadPool.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Threading.Timer.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.ValueTuple.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Xml.XDocument.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Xml.XmlDocument.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Xml.XPath.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\AngleSharp.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\Newtonsoft.Json.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\NReco.VideoConverter.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\YoutubeExplode.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\YoutubeExtractor.dll
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\AngleSharp.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\Newtonsoft.Json.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\NReco.VideoConverter.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\YoutubeExplode.xml
+D:\Учёба\ООП\Курсач\SPlayer\SPlayer\bin\Debug\YoutubeExtractor.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\SPlayer.exe.config
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\SPlayer.exe
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\SPlayer.pdb
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\netstandard.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.AppContext.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.Concurrent.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.NonGeneric.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.Specialized.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Console.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Data.Common.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Debug.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Process.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Tools.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Drawing.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Dynamic.Runtime.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Globalization.Calendars.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Globalization.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Globalization.Extensions.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.Compression.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.Pipes.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.Expressions.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.Parallel.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.Queryable.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Http.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.NameResolution.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.NetworkInformation.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Ping.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Requests.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Security.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Sockets.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.WebSockets.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ObjectModel.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Reflection.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Reflection.Extensions.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Reflection.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Resources.Reader.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Resources.ResourceManager.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Resources.Writer.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Extensions.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Handles.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Numerics.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Claims.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Principal.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.SecureString.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.RegularExpressions.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Overlapped.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Tasks.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Thread.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.ThreadPool.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Timer.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ValueTuple.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XDocument.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XPath.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\AngleSharp.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\libvideo.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MediaToolkit.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NAudio.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\Newtonsoft.Json.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NReco.VideoConverter.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExplode.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExtractor.dll
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\AngleSharp.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.pdb
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NAudio.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\Newtonsoft.Json.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NReco.VideoConverter.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExplode.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExtractor.xml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csprojAssemblyReference.cache
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.exe.config
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\MainWindow.g.cs
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\musicList.g.cs
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\TextAccords.g.cs
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\App.g.cs
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.cache
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.lref
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\App.baml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\MainWindow.baml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\musicList.baml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\TextAccords.baml
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.g.resources
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.Properties.Resources.resources
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.GenerateResource.cache
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CoreCompileInputs.cache
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CopyComplete
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.exe
+E:\Оживление дружка\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.pdb
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\SPlayer.exe.config
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\SPlayer.exe
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\SPlayer.pdb
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\netstandard.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.AppContext.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.Concurrent.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.NonGeneric.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Collections.Specialized.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Console.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Data.Common.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Debug.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Process.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Tools.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Drawing.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Dynamic.Runtime.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Globalization.Calendars.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Globalization.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Globalization.Extensions.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.Compression.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.Pipes.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.Expressions.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.Parallel.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Linq.Queryable.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Http.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.NameResolution.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.NetworkInformation.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Ping.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Requests.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Security.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.Sockets.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Net.WebSockets.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ObjectModel.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Reflection.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Reflection.Extensions.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Reflection.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Resources.Reader.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Resources.ResourceManager.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Resources.Writer.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Extensions.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Handles.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Numerics.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Claims.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.Principal.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Security.SecureString.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.RegularExpressions.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Overlapped.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Tasks.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Thread.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.ThreadPool.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Threading.Timer.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.ValueTuple.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XDocument.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XmlDocument.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XPath.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\AngleSharp.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\libvideo.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MediaToolkit.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NAudio.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\Newtonsoft.Json.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NReco.VideoConverter.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExplode.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExtractor.dll
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\AngleSharp.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignColors.pdb
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NAudio.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\Newtonsoft.Json.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\NReco.VideoConverter.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExplode.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\bin\Debug\YoutubeExtractor.xml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csprojAssemblyReference.cache
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.exe.config
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\MainWindow.g.cs
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\musicList.g.cs
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\TextAccords.g.cs
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\App.g.cs
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.cache
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer_MarkupCompile.lref
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\App.baml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\MainWindow.baml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\musicList.baml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\TextAccords.baml
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.g.resources
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.Properties.Resources.resources
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.GenerateResource.cache
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CoreCompileInputs.cache
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.csproj.CopyComplete
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.exe
+D:\Учёба\Курсач(Final Version)\SPlayer\SPlayer\obj\Debug\SPlayer.pdb
